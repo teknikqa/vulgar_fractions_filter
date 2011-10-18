@@ -1,0 +1,2 @@
+A Drupal module that replaces fractions written as "1/2" with HTML entities representing vulgar fractions such as &frac12;
+(Built for Drupal 6)
