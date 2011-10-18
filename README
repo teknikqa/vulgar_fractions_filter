@@ -1,2 +1,3 @@
-A Drupal module that replaces fractions written as "1/2" with HTML entities representing vulgar fractions such as &frac12;
+A Drupal module that creates a new input filter that can better handle fractions.
+This module replaces fractions written as "1/2" with HTML entities representing vulgar fractions such as &frac12;
 (Built for Drupal 6)
